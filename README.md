@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nykten
+- 👋 Hi, I’m @nykten
 - 👀 I’m interested in AR/VR tech
 - 🌱 I’m currently learning Spark AR
 - 💞️ I’m looking to collaborate on ...
