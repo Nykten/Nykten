@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nykten
 - 👀 I’m interested in AR/VR tech
-- 🌱 I’m currently learning Spark AR
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Spark AR, Effect House, Lens Studio, ReactJS
+- 💞️ I’m looking to collaborate on AR Projects or social media filters!
 - 📫 Reach me on Instagram at @random.neeha!
 
 <!---
